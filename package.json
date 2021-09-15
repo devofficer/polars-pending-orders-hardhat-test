@@ -1,0 +1,23 @@
+{
+  "name": "polars-pending-orders-hardhat-test",
+  "version": "1.0.0",
+  "description": "npm install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolaytoplev/polars-pending-orders-hardhat-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolaytoplev/polars-pending-orders-hardhat-test/issues"
+  },
+  "homepage": "https://github.com/nikolaytoplev/polars-pending-orders-hardhat-test#readme",
+  "devDependencies": {
+    "hardhat": "^2.6.4"
+  }
+}
